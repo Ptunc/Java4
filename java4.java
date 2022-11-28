@@ -15,6 +15,6 @@ public class java4 {
         sonuc = top < 20 ? 20 : top;
 
         System.out.println("tutar: " + sonuc);
-
+        input.close();
     }
 }
